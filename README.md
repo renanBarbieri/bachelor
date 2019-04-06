@@ -1,2 +1,2 @@
-# bachelor
-This repository contains all projects made for Computer Science Bachelor Degree in UFRJ
+# Modelo Booleano
+Esta branch contém o trabalho desenvolvido para a aplicação do modelo booleano de recuperação da informação.
